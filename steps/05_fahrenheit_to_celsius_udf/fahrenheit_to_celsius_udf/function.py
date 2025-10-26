@@ -9,6 +9,7 @@
 # SNOWFLAKE ADVANTAGE: Python UDFs (with third-party packages)
 # SNOWFLAKE ADVANTAGE: SnowCLI (PuPr)
 
+
 import sys
 
 def main(temp_f: float) -> float:
