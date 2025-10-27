@@ -13,8 +13,7 @@
 import sys
 
 def main(temp_f: float) -> float:
-    return (float(temp_f) - 32) * (5/9)
-
+    return (float(temp_f) - 32)*(5/9)
 
 # For local debugging
 # Be aware you may need to type-convert arguments if you add input parameters
